@@ -1,1 +1,37 @@
 # Web-Pages-with-HTML
+- # Wireframe and Design
+- *6 Steps to make a wireframe*
+- Do your research
+- Prepare your research for reference
+- Make sure you have your user flow mapped out
+- Draft, don’t draw. Sketch, don’t illustrate
+- Add some detail and get testing
+- Start turning your wireframes into prototypes
+- *How to make your wireframe good: 3 Key Principles*
+- Maintain Clarity
+- Gain User Confidence
+- Simplicity is Key
+- # Mozilla HTML Basics
+- HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on.
+- *Anatomy of an HTML element*
+- The Opening Tag
+- The Closing Tag
+- The Content
+- The Element
+- *Attributes contain extra information about the element that you don't want to appear in the actual content*
+- *Nesting Elements*
+- Putting elements inside other elements
+- *Elements that have no content are called empty elements*
+- *Images*
+- Img src = content
+- *Marking Up Text*
+- *Headings*
+- *Paragraphs*
+- *Lists*
+- Unordered Lists  are for lists where the order of the items doesn't matter, such as a shopping list. These are wrapped in a ul element.
+- Ordered lists are for lists where the order of the items does matter, such as a recipe.  These are wrapped in an ol element.
+- Each item inside the lists is put inside li (list item) element.
+- *Links*
+- Pair the a element with an href attribute.
+- # Semantics
+- Refers to the meaning of a piece of code
